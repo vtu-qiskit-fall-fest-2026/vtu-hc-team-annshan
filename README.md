@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Team AnnShan** · Team ID `VTU-QFF-HC-0060` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Team AnnShan)
+[⬆ Back to Top](#team-annshan)
 
 </div>
